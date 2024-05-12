@@ -677,4 +677,30 @@ footer img {
   width: 50%;
 }
 
+.conclusion {
+  padding: 5% 8% 5%;
+}
+.conclusion h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 45px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+}
+.conclusion p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #000;
+  line-height: 1.5;
+  width: 100%; /* Largeur maximale pour un meilleur ajustement sur les petits écrans */
+  margin-bottom: 20px; /* Espacement inférieur */
+  margin-bottom: 30px;
+}
+.conclusion .images {
+  text-align: center;
+}
+.conclusion .images img {
+  width: 50%;
+}
+
 /*# sourceMappingURL=style.css.map */
